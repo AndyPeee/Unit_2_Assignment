@@ -1,0 +1,6 @@
+LastName,FirstName,Grade,House,Adviser
+neutron,jimmy,8,fraser,schmidt
+shawn,mendes,12,latimer,watson
+lovegood,luna,11,fraser,lillie
+percy,jackson,11,yukon,lillie
+mitch,marner,12,nahanni,watson
